@@ -1,3 +1,7 @@
+out
+.vscode
+typings
+
 # Logs
 logs
 *.log

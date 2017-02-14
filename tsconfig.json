@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "outDir": "./out",
+    "lib": [
+      "es2015",
+      "es5",
+      "dom",
+      "scripthost"
+    ],
+    "sourceMap": true
+  },
+  "files": [
+    "typings/index.d.ts"
+  ],
+  "include": [
+    "src/**/*.ts"
+  ]
+}

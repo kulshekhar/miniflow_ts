@@ -1,0 +1,18 @@
+{
+  "name": "miniflow",
+  "version": "0.0.1",
+  "description": "A tiny tensorflow-like library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vectorious": "^4.8.1"
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.5",
+    "@types/vectorious": "^4.3.2"
+  }
+}
